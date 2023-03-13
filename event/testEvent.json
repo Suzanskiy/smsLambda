@@ -1,0 +1,21 @@
+{
+  "merchantAccount": "tia-shop.com",
+  "orderReference": "WFP-SPC-640cc2a1c63dc-1678634979",
+  "merchantSignature": "signature",
+  "amount": 350,
+  "currency": "UAH",
+  "authCode": "221172",
+  "createdDate": 1678634978,
+  "processingDate": 1678635138,
+  "cardPan": "4441 **** **** **** 4732",
+  "recToken": "",
+  "transactionStatus": "Approved",
+  "reason": "Ok",
+  "reasonCode": "1100",
+  "fee": 0,
+  "paymentSystem": "card",
+  "acquirerBankName": "WayForPay",
+  "cardProduct": "debit",
+  "orderNo": "shop:330",
+  "deliveryPhone": "+380633524407"
+}
